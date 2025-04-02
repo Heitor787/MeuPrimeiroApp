@@ -9,7 +9,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tipos", "..\Tipos\Tipos.csp
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "data", "..\data\data.csproj", "{4872DB2B-3487-4F48-9810-1A4BE3E77DC4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "notas", "..\notas\notas.csproj", "{48EF0632-8769-4747-BC33-0EC77A97134C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "notas", "..\notas\notas.csproj", "{48EF0632-8769-4747-BC33-0EC77A97134C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "if", "..\if\if.csproj", "{20901870-02A6-47F4-BE0D-8B344AD189CA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{48EF0632-8769-4747-BC33-0EC77A97134C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{48EF0632-8769-4747-BC33-0EC77A97134C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{48EF0632-8769-4747-BC33-0EC77A97134C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{20901870-02A6-47F4-BE0D-8B344AD189CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{20901870-02A6-47F4-BE0D-8B344AD189CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{20901870-02A6-47F4-BE0D-8B344AD189CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{20901870-02A6-47F4-BE0D-8B344AD189CA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
